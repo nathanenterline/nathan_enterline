@@ -1,7 +1,7 @@
 # Hello, I'm Nathan. 
 Thank you for visiting my page on GitHub! Please be sure to view my Linkedin profile as well. 
 
-<a href="www.linkedin.com/nathan-enterline"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/nathan-enterline"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Cybersecurity Master's Student
 Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. Seeking internship opportunities in cybersecurity.
