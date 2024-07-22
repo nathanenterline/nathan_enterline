@@ -20,7 +20,7 @@ My education and experince has allowed me to gain experince in critical skills r
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|    
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Penatration Testing                            | Ethical Hacking |
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
 ### Network
