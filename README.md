@@ -16,7 +16,7 @@ My education and experince has allowed me to gain experince in critical skills r
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Securing Networks                              | <a href="https://github.com/nathanenterline/Securing-Networks/tree/main)">Securing Neworks</a>|
+| Securing Networks                              | <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Securing Neworks</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|    
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -50,7 +50,7 @@ Below I have provided a list of a few tools that I have direct expeince with alo
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 
 ## Projects & Research
-- <a href="https://github.com/nathanenterline/Securing-Networks/tree/main)">Securing Neworks</a>
+- <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Securing Neworks</a>
 - Organization Cyber Risk Managment
 - Operating Systems Security
 - Web Application Security
