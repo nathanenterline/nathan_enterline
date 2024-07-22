@@ -51,7 +51,12 @@ Below I have provided a list of a few tools that I have direct expeince with alo
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 
-
+## Projects & Research
+- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
+- Detection Lab
+- Windows Security
+- Software Bill of Materials (SBOM)
+- Artificial Intelligence Bill of Materials (AIBOM)
 
 </div>
 </div>
