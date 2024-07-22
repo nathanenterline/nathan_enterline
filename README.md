@@ -19,8 +19,7 @@ My education and experince has allowed me to gain experince in critical skills r
 | Securing Widowns OS systems                   | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|    
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -53,8 +52,11 @@ Below I have provided a list of a few tools that I have direct expeince with alo
 
 ## Projects & Research
 - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- Windows Security
+- Organization Cyber Risk Managment
+- Operating Systems Security
+- Web Application Security
+- Ethical Hacking
+- Cyber Forensics
 - Software Bill of Materials (SBOM)
 - Artificial Intelligence Bill of Materials (AIBOM)
 
