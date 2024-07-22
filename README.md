@@ -14,13 +14,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 My education and experince has allowed me to gain experince in critical skills related to Cybersecurity. Below are some of the skills I have obtained along with links to a few example projects.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Securing Networks                              | <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Securing Neworks</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|    
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Penatration Testing                            | Ethical Hacking |
+| Skills& Associated Project         |
+|-----------------------------------------------|
+|  <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Securing Neworks</a> |
+| Network Traffic Monitoring and Attack Detection | 
+| Incident Response Planning and Execution      | 
+| Scripting and Automation for Threat Mitigation |
+| Penatration Testing                            |
+
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
 ### Network
