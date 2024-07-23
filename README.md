@@ -16,8 +16,7 @@ My education and experince has allowed me to gain experince in critical skills r
 
 | Skills & Associated Project         |
 |-----------------------------------------------|
-|  <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Securing Neworks</a> |
-| Network Traffic Monitoring and Attack Detection | 
+|  <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Network Traffic Monitoring & Attack Detection</a> |
 |  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>      | 
 | Scripting and Automation for Threat Mitigation |
 | Penatration Testing                            |
