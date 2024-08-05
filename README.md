@@ -11,15 +11,17 @@ Passionate about defending against cyber threats and building resilient systems.
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-My education and experince has allowed me to gain experince in critical skills related to Cybersecurity. Below are some of the skills I have obtained along with links to a few example projects.
+## Skills and Projects
+My education and experince has allowed me to gain experince in critical skills related to Cybersecurity. Below are some of the skills I have obtained along with links to a few example projects. 
 
-| Skills & Associated Project         |
-|-----------------------------------------------|
-|  <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Network Traffic Monitoring & Attack Detection</a> |
-|  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>      | 
-|  <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a> |
-| Penatration Testing                            |
+Please view the project link to gather an understanding on additional skills I have learned working the associated project.
+
+| Skills        | Associated Poject    |
+|-----------------------------------------------|-----------------------------------------------|
+|  Network Traffic Monitoring & Networking Security  |    <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Attack Detection Lab    |
+| Incident Response Planning        |  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>    |
+|  Programming & Penatration Testing     |    <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a>    |
+
 
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
@@ -49,6 +51,12 @@ Below I have provided a list of a few tools that I have direct expeince with alo
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 
+### Fuzzing
+<div>
+    <img src="https://img.shields.io/badge/-beStrom-232F3E?style=for-the-badge&logo=https://your-hosted-logo-url.com/logo.png&logoColor=white" />
+
+
+</div>
 
 </div>
 </div>
