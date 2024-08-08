@@ -22,6 +22,11 @@ Please view the project link to gather an understanding on additional skills I h
 | Incident Response Planning        |  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>    |
 |  Programming & Penatration Testing     |    <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a>    |
 
+## Research
+In this section, I have included a few research papers I have written for previous classes.
+- [SOFTWARE BILL OF MATERIALS.pdf](https://github.com/user-attachments/files/16503188/SOFTWARE.BILL.OF.MATERIALS.pdf)
+- [AIBOM (Concept Paper).pdf](https://github.com/user-attachments/files/16536302/AIBOM.Concept.Paper.pdf)
+
 
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
@@ -52,8 +57,8 @@ Below I have provided a list of a few tools that I have direct expeince with alo
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 
 ### Fuzzing
-<div>
-    <img src="https://img.shields.io/badge/-beStrom-232F3E?style=for-the-badge&logo=https://your-hosted-logo-url.com/logo.png&logoColor=white" />
+</div>
+    <img src="https://img.shields.io/badge/-BeyondSecurity-232F3E?style=for-the-badge&logo=https://github.com/your-username/your-repository/raw/main/beyondsecurity-logo.png&logoColor=white" />
 
 
 
