@@ -8,6 +8,15 @@ Thank you for visiting my page on GitHub! Please be sure to view my Linkedin pro
 # Cybersecurity Master's Student
 Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. Seeking internship opportunities in cybersecurity.
 
+## Skills Overview
+- Programming Languages: Python, Java
+- Scripting Languages: Bash, PowerShell, Perl 
+- Networking: TCP/IP, DNS, routing, firewalls, network security 
+- Cryptography: Encryption algorithms, key management, digital signatures 
+- Operating Systems: Linux, Windows, macOS 
+- Security Tools: Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark 
+- Cloud Security: AWS, Azure
+
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
