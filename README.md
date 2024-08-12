@@ -13,10 +13,10 @@ Passionate about defending against cyber threats and building resilient systems.
 - Networking: TCP/IP, DNS, routing, firewalls, network security 
 - Cryptography: Encryption algorithms, key management, digital signatures 
 - Operating Systems: Linux, Windows, macOS 
-- Security Tools: Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark 
-- Cloud Security: AWS, Azure
+- Security Tools: Kali Linux, Nmap, Wireshark 
+- Cloud Security: AWS, Azure, Google
 - Programming Languages: Python, Java
-- Virtual Machines (Oracle VM VirtualBox)
+- Virtual Machines (VirtualBox, VMWare, Hyper-V)
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
