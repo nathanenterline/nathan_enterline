@@ -34,7 +34,7 @@ Please view the project link to gather an understanding on additional skills I h
 
 ## Research
 In this section, I have included a few research papers I have written for previous classes.
-- [SOFTWARE BILL OF MATERIALS.pdf](https://github.com/user-attachments/files/16503188/SOFTWARE.BILL.OF.MATERIALS.pdf)
+- [SOFTWARE BILL OF MATERIALS](https://github.com/nathanenterline/SBOM-Research/blob/main/README.md)
 - [AIBOM (Concept Paper).pdf](https://github.com/user-attachments/files/16536302/AIBOM.Concept.Paper.pdf)
 
 
