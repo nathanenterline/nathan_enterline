@@ -37,6 +37,8 @@ In this section, I have included a few research papers I have written for previo
 - [SOFTWARE BILL OF MATERIALS](https://github.com/nathanenterline/SBOM-Research/blob/main/README.md)
 - [AIBOM (Concept Paper)](https://github.com/nathanenterline/AIBOM/blob/main/README.md)
 
+## Home Lab
+For my home lab I used Oracle VM VirtualBox to create a testing environment consisting of two main machines (Windows VM & Linux VM). Both machines are connected through an internal network where I am able to securly perfrom penatration testing techniques.
 
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
@@ -55,7 +57,8 @@ Below I have provided a list of a few tools that I have direct expeince with alo
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 <div>
 
 ### Cloud
