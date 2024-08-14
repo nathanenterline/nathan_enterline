@@ -38,7 +38,7 @@ In this section, I have included a few research papers I have written for previo
 - [AIBOM (Concept Paper)](https://github.com/nathanenterline/AIBOM/blob/main/README.md)
 
 ## Home Lab
-For my home lab I used Oracle VM VirtualBox to create a testing environment consisting of two main machines (Windows VM & Linux VM). Both machines are connected through an internal network where I am able to securly perfrom penatration testing techniques.
+For my home lab I used Oracle VM VirtualBox to create a testing environment consisting of two main machines (Windows VM & Linux VM). Both machines are connected through an internal network where I am able to securly perfrom penatration testing techniques. Splunk was installed on the Windows VM in order to gain hands on practice of responding to alerts and cyber attacks such as penatrationg techniques I am using from the Linux VM.
 
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
