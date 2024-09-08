@@ -19,7 +19,7 @@ Passionate about defending against cyber threats and building resilient systems.
 - Virtual Machines (VirtualBox, VMWare, Hyper-V)
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and I am open to full time positions as well as internships.
 
 ## Skills and Projects
 My education and experince has allowed me to gain experince in critical skills related to Cybersecurity. Below are some of the skills I have obtained along with links to a few example projects. 
