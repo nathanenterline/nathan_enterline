@@ -6,7 +6,7 @@ Thank you for visiting my page on GitHub! Please be sure to view my Linkedin pro
 </a>
 
 # Cybersecurity Master's Student
-Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. Seeking internship opportunities in cybersecurity.
+Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. Seeking internship and full time job opportunities in cybersecurity.
 
 ## Skills Overview
 - Scripting Languages: Bash, PowerShell, Perl 
