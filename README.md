@@ -10,7 +10,8 @@ Passionate about defending against cyber threats and building resilient systems.
 
 ## Skills Overview
 - Scripting Languages: Bash, PowerShell, Perl 
-- Networking: TCP/IP, DNS, routing, firewalls, network security 
+- Networking: TCP/IP, DNS, routing, firewalls, network security
+- Goveranace, Risk, and Compliance (GRC) 
 - Cryptography: Encryption algorithms, key management, digital signatures 
 - Operating Systems: Linux, Windows, macOS 
 - Security Tools: Kali Linux, Nmap, Wireshark 
