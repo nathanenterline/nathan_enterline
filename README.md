@@ -32,13 +32,17 @@ Please view the project link to gather an understanding on additional skills I h
 |  Network Traffic Monitoring & Networking Security  |    <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Attack Detection Lab    |
 | Incident Response Planning        |  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>    |
 |  Programming & Penatration Testing     |    <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a>    |
+| Website Development | [enterlinemedia](https://enterlinemedia.com/)
 
 ## Research
-In this section, I have included a few research papers I have written for previous classes.
-- [AIBOM & SBOM Research]
+In this section, I have included a paper I have written on the AIBOM & SBOM
+- [AIBOM & SBOM Research](https://github.com/nathanenterline/AIBOM-SBOM)
 
 ## Home Lab
 For my home lab I used Oracle VM VirtualBox to create a testing environment consisting of two main machines (Windows VM & Linux VM). Both machines are connected through an internal network where I am able to securly perfrom penatration testing techniques. Splunk was installed on the Windows VM in order to gain hands on practice of responding to alerts and cyber attacks such as penatrationg techniques I am using from the Linux VM.
+
+## Webiste Development
+I host and develop my own website ["enterlinemedia.com"](https://enterlinemedia.com/) where I test the my own websites security capabilities and practice website penatration testing techniques.
 
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
