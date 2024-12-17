@@ -35,8 +35,7 @@ Please view the project link to gather an understanding on additional skills I h
 
 ## Research
 In this section, I have included a few research papers I have written for previous classes.
-- [SOFTWARE BILL OF MATERIALS](https://github.com/nathanenterline/SBOM-Research/blob/main/README.md)
-- [AIBOM (Concept Paper)](https://github.com/nathanenterline/AIBOM/blob/main/README.md)
+- [AIBOM & SBOM Research]
 
 ## Home Lab
 For my home lab I used Oracle VM VirtualBox to create a testing environment consisting of two main machines (Windows VM & Linux VM). Both machines are connected through an internal network where I am able to securly perfrom penatration testing techniques. Splunk was installed on the Windows VM in order to gain hands on practice of responding to alerts and cyber attacks such as penatrationg techniques I am using from the Linux VM.
