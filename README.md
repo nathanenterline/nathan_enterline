@@ -5,7 +5,7 @@ Thank you for visiting my page on GitHub! Please be sure to view my Linkedin pro
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-# Cybersecurity Master's Student
+# Cybersecurity Master's Graduate from [Robert Morris University](https://www.rmu.edu/academics/graduate/school-data-intelligence-and-technology/computer-and-information-systems-1) with 3.96 GPA
 Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. Seeking internship and full time job opportunities in cybersecurity.
 
 ## Skills Overview
