@@ -44,6 +44,10 @@ For my home lab I used Oracle VM VirtualBox to create a testing environment cons
 ## Webiste Development
 I host and develop my own website ["enterlinemedia.com"](https://enterlinemedia.com/) where I test the my own websites security capabilities and practice website penatration testing techniques.
 
+## Hack the Box
+I enjoy testing my skills with online games such as Hack the Box. Below are a few of the modules that I have completed.
+- [SQL Injection](https://academy.hackthebox.com/achievement/1617413/33)
+
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
 ### Network
