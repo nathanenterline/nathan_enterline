@@ -23,7 +23,9 @@ Passionate about defending against cyber threats and building resilient systems.
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and I am open to full time positions as well as internships.
 
 ## Skills and Projects
-My education and experince has allowed me to gain experince in critical skills related to Cybersecurity. Below are some of the skills I have obtained along with links to a few example projects. 
+My education and experince has allowed me to gain experince in critical skills related to Cybersecurity. Below are some of the skills I have obtained along with links to a few example projects. I also have a YouTube channel where I upload videos related to Cybersecurity and provide demostration on on how to use tools and test applications for security.
+
+- [YouTube](https://www.youtube.com/@nathanenterline8610)
 
 Please view the project link to gather an understanding on additional skills I have learned working the associated project.
 
