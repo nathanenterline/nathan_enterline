@@ -50,6 +50,9 @@ I host and develop my own website ["enterlinemedia.com"](https://enterlinemedia.
 I enjoy testing my skills with online games such as Hack the Box. Below are a few of the modules that I have completed.
 - [SQL Injection](https://academy.hackthebox.com/achievement/1617413/33)
 
+## Certifications
+[Network Defense](https://www.credly.com/badges/7f5ba3b8-a425-4a61-98fd-34585b2344fb/public_url)
+
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
 ### Network
