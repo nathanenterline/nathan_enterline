@@ -51,7 +51,8 @@ I enjoy testing my skills with online games such as Hack the Box. Below are a fe
 - [SQL Injection](https://academy.hackthebox.com/achievement/1617413/33)
 
 ## Certifications
-[Network Defense](https://www.credly.com/badges/7f5ba3b8-a425-4a61-98fd-34585b2344fb/public_url)
+- [Network Defense](https://www.credly.com/badges/7f5ba3b8-a425-4a61-98fd-34585b2344fb/public_url)
+- [Endpoint Security](https://www.credly.com/badges/dd26de01-5b60-463e-9645-23b7952db605/public_url)
 
 ## Tools
 Below I have provided a list of a few tools that I have direct expeince with along with their associated catogriores
