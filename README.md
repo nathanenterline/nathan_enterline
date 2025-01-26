@@ -33,7 +33,7 @@ Please view the project link to gather an understanding on additional skills I h
 |-----------------------------------------------|-----------------------------------------------|
 |  Network Traffic Monitoring & Networking Security  |    <a href="https://github.com/nathanenterline/Securing-Networks/tree/main">Attack Detection Lab    |
 | Incident Response Planning        |  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>    |
-|  Programming & Penatration Testing     |    <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a>    |
+|  Programming & Penetration Testing     |    <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a>    |
 | Website Development | [enterlinemedia](https://enterlinemedia.com/)
 
 ## Research
