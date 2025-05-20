@@ -1,6 +1,6 @@
 import json
 
-
+### READ ME: This AI Agent works on n8n and is designed to take a YouTube video uploaded to any TouTube channel and make a clear, easy to read, transcription of that video. After transcribing the video, the agent will then make relavent social media posts about the contents of the video and will also send the transcription through email to any inbox 
 sanitized_data = {
   "name": "YouTube Transcriber",
   "nodes": [
