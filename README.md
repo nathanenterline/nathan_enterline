@@ -37,6 +37,7 @@ Please view the project link to gather an understanding on additional skills I h
 | Incident Response Planning        |  <a href="https://github.com/nathanenterline/Incident-Response/blob/main/README.md">Incident Response Planning and Execution</a>    |
 |  Programming & Penetration Testing     |    <a href="https://github.com/nathanenterline/Web-Application-Security">Web Application Security</a>    |
 | Website Development | [enterlinemedia](https://enterlinemedia.com/)
+| AI Agent | [YouTube Transcriber](https://github.com/nathanenterline/nathan_enterline/blob/main/AI%20Agent%20YouTube%20Transcriber)
 
 ## Research
 In this section, I have included a paper I have written on the AIBOM & SBOM
