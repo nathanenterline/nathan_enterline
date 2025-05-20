@@ -1,0 +1,189 @@
+import json
+
+
+sanitized_data = {
+  "name": "YouTube Transcriber",
+  "nodes": [
+    {
+      "parameters": {
+        "youtubeURL": "[REDACTED_YOUTUBE_URL]"
+      },
+      "type": "n8n-nodes-youtube-transcript-api.youtubeTranscriptApi",
+      "typeVersion": 1,
+      "position": [-60, 340],
+      "id": "5c8e89b0-bbb6-4ef8-88e3-066bc47c697a",
+      "name": "Youtube Transcript",
+      "notesInFlow": False,
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $json.transcript }} \n\nRemove any syntax errors. After removing syntax errors. Do not add any extra words. Only provide a clean version of transcript.",
+        "options": {
+          "systemMessage": "You are a helpful assistant"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.9,
+      "position": [160, 240],
+      "id": "d68a0534-f639-4cee-b611-54a2a2eabb5f",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": True,
+          "mode": "list",
+          "value": "gpt-4o-mini"
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [248, 460],
+      "id": "109859fa-a80d-418c-bb46-1a586854c74d",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "[REDACTED_API_ID]",
+          "name": "[REDACTED_CREDENTIAL_NAME]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [{}]
+        },
+        "feedUrl": "[REDACTED_RSS_FEED_URL]"
+      },
+      "type": "n8n-nodes-base.rssFeedReadTrigger",
+      "typeVersion": 1,
+      "position": [-280, 340],
+      "id": "3971dc2f-156d-41dc-b236-ec4d0e207d65",
+      "name": "RSS Feed Trigger"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": True,
+          "value": "gpt-4o-mini",
+          "mode": "list",
+          "cachedResultName": "GPT-4O-MINI"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=From the text provided, create tailored social media posts for LinkedIn, Twitter (X), Instagram, and Facebook:\n\n- LinkedIn: A professional post highlighting the key insights with formal tone.\n- Instagram: A short, engaging post with a call to action and relevant hashtags.\n- Twitter (X): A concise post under 280 characters with a few relevant hashtags.\n- Facebook: A conversational post with more detail and link to video.\n\nTest: {{ \"transcript\" }}"
+            }
+          ]
+        },
+        "jsonOutput": True,
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.8,
+      "position": [160, 40],
+      "id": "8cef5e97-2361-41d0-bea1-ccc338227a9c",
+      "name": "OpenAI",
+      "alwaysOutputData": True,
+      "credentials": {
+        "openAiApi": {
+          "id": "[REDACTED_API_ID]",
+          "name": "[REDACTED_CREDENTIAL_NAME]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "sendTo": "[REDACTED_EMAIL]",
+        "subject": "=YouTube Transcription  {{ $('Youtube Transcript').item.json.title }}",
+        "message": "={{ $json.output }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [536, 340],
+      "id": "1e742ff8-4ff5-4f9a-bf4c-d0d4c0377096",
+      "name": "Gmail",
+      "webhookId": "[REDACTED_WEBHOOK_ID]",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "[REDACTED_CREDENTIAL_ID]",
+          "name": "[REDACTED_CREDENTIAL_NAME]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "sendAndWait",
+        "sendTo": "[REDACTED_EMAIL]",
+        "subject": "Error in trascription",
+        "message": "Error in transcription. How should we proceed?",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [240, 640],
+      "id": "d41364cc-ed94-4cfa-b1fb-a4411c73a761",
+      "name": "Gmail1",
+      "webhookId": "[REDACTED_WEBHOOK_ID]",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "[REDACTED_CREDENTIAL_ID]",
+          "name": "[REDACTED_CREDENTIAL_NAME]"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Youtube Transcript": {
+      "main": [
+        [{"node": "AI Agent", "type": "main", "index": 0}, {"node": "OpenAI", "type": "main", "index": 0}],
+        [{"node": "Gmail1", "type": "main", "index": 0}]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [{"node": "AI Agent", "type": "ai_languageModel", "index": 0}]
+      ]
+    },
+    "RSS Feed Trigger": {
+      "main": [
+        [{"node": "Youtube Transcript", "type": "main", "index": 0}]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [{"node": "Gmail", "type": "main", "index": 0}]
+      ]
+    }
+  },
+  "active": False,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "5cbae80d-281d-4250-b11c-a090c5df354b",
+  "meta": {
+    "templateCredsSetupCompleted": True,
+    "instanceId": "[REDACTED_INSTANCE_ID]"
+  },
+  "id": "Qg0E913Nxxr0ec1x",
+  "tags": [
+    {
+      "createdAt": "2025-05-06T21:40:34.729Z",
+      "updatedAt": "2025-05-06T21:40:34.729Z",
+      "id": "9bVONBn1tj111rEf",
+      "name": "Zach"
+    }
+  ]
+}
+
+# Save to file
+file_path = "/mnt/data/Sanitized_YouTube_Transcriber.json"
+with open(file_path, "w") as f:
+    json.dump(sanitized_data, f, indent=2)
+
+file_path
