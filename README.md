@@ -6,7 +6,7 @@ Thank you for visiting my page on GitHub! Please be sure to view my Linkedin pro
 </a>
 
 # Cybersecurity Master's Graduate from [Robert Morris University](https://www.rmu.edu/academics/graduate/school-data-intelligence-and-technology/computer-and-information-systems-1) with 3.97 GPA
-Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. Seeking full time job opportunities in cybersecurity.
+Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. I also professonally develop AI Agent workflows, test AI capabilities and deveolp web apps. 
 
 ## Skills Overview
 - Scripting Languages: Bash, PowerShell, Perl 
