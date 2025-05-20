@@ -12,12 +12,14 @@ Passionate about defending against cyber threats and building resilient systems.
 - Scripting Languages: Bash, PowerShell, Perl 
 - Networking: TCP/IP, DNS, routing, firewalls, network security
 - Goveranace, Risk, and Compliance (GRC) 
-- Cryptography: Encryption algorithms, key management, digital signatures 
 - Operating Systems: Linux, Windows, macOS 
 - Security Tools: Kali Linux, Nmap, Wireshark 
 - Cloud Security: AWS, Azure, Google
 - Programming Languages: Python, Java
 - Virtual Machines (VirtualBox, VMWare, Hyper-V)
+- AI Agent Development
+- Web Application Development
+- Cryptography: Encryption algorithms, key management, digital signatures 
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and I am open to full time positions as well as internships.
