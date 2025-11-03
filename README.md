@@ -6,6 +6,7 @@ Thank you for visiting my page on GitHub! Please be sure to view my Linkedin pro
 </a>
 
 # Cybersecurity Master's Graduate from [Robert Morris University](https://www.rmu.edu/academics/graduate/school-data-intelligence-and-technology/computer-and-information-systems-1) with 3.97 GPA
+# CompTIA Security + [Certified](https://www.credly.com/badges/30994ade-f94d-4bae-b005-0fcb4e311512) 
 Passionate about defending against cyber threats and building resilient systems. Focusing on network security and threat intelligence. Experienced in Python, Kali Linux, Nmap, and Metasploit. I also professonally develop AI Agent workflows, test AI capabilities and deveolp web apps. 
 
 ## Skills Overview
